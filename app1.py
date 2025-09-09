@@ -403,3 +403,84 @@ if page == "Analysis":
 
         if "Project Manager" in suggested_jobs:
             st.write("📊 Project Manager: ₹10–25 LPA in India, $95K–140K in US")
+         if "Mechanical Engineer" in suggested_jobs:
+            st.write("🔧 Mechanical Engineer: ₹4–10 LPA in India, $60K–95K in US")
+
+        if "Civil Engineer" in suggested_jobs:
+            st.write("🏗 Civil Engineer: ₹3.5–9 LPA in India, $55K–90K in US")
+
+        if "Electrical Engineer" in suggested_jobs:
+            st.write("⚡ Electrical Engineer: ₹4–10 LPA in India, $65K–100K in US")
+
+        if "Electronics Engineer" in suggested_jobs:
+            st.write("📡 Electronics Engineer: ₹4–9 LPA in India, $60K–95K in US")
+
+        if "Automobile Engineer" in suggested_jobs:
+            st.write("🚗 Automobile Engineer: ₹4–9 LPA in India, $55K–90K in US")
+
+        # Business & Management
+        if "Business Analyst" in suggested_jobs:
+            st.write("📊 Business Analyst: ₹6–14 LPA in India, $75K–115K in US")
+
+        if "Chartered Accountant" in suggested_jobs:
+            st.write("💼 Chartered Accountant: ₹7–20 LPA in India, $80K–120K in US")
+
+        if "HR Manager" in suggested_jobs:
+            st.write("👥 HR Manager: ₹6–15 LPA in India, $70K–110K in US")
+
+        if "Marketing Manager" in suggested_jobs:
+            st.write("📢 Marketing Manager: ₹7–18 LPA in India, $75K–120K in US")
+
+# Healthcare
+        if "Doctor" in suggested_jobs:
+            st.write("🩺 Doctor: ₹8–25 LPA in India, $120K–250K in US")
+
+        if "Nurse" in suggested_jobs:
+            st.write("👩‍⚕️ Nurse: ₹3–7 LPA in India, $55K–85K in US")
+
+        if "Pharmacist" in suggested_jobs:
+            st.write("💊 Pharmacist: ₹3–8 LPA in India, $60K–95K in US")
+
+        if "Biotechnologist" in suggested_jobs:
+            st.write("🧬 Biotechnologist: ₹4–10 LPA in India, $65K–100K in US")
+
+# Education
+        if "Teacher" in suggested_jobs:
+            st.write("📚 Teacher: ₹3–8 LPA in India, $50K–80K in US")
+
+        if "Professor" in suggested_jobs:
+            st.write("🎓 Professor: ₹6–15 LPA in India, $70K–110K in US")
+
+# Finance & Banking
+        if "Investment Banker" in suggested_jobs:
+            st.write("💹 Investment Banker: ₹12–30 LPA in India, $110K–180K in US")
+
+        if "Financial Analyst" in suggested_jobs:
+            st.write("💰 Financial Analyst: ₹5–12 LPA in India, $70K–105K in US")
+
+        if "Bank Manager" in suggested_jobs:
+            st.write("🏦 Bank Manager: ₹7–15 LPA in India, $75K–120K in US")
+
+# Creative & Media
+        if "Graphic Designer" in suggested_jobs:
+            st.write("🎨 Graphic Designer: ₹3–8 LPA in India, $55K–85K in US")
+
+        if "Content Writer" in suggested_jobs:
+            st.write("✍️ Content Writer: ₹2.5–7 LPA in India, $45K–70K in US")
+
+        if "Journalist" in suggested_jobs:
+            st.write("📰 Journalist: ₹3–9 LPA in India, $50K–85K in US")
+
+        if "Digital Marketer" in suggested_jobs:
+            st.write("📱 Digital Marketer: ₹4–10 LPA in India, $60K–95K in US")
+
+# Government & Public Sector
+        if "IAS Officer" in suggested_jobs:
+            st.write("🏛 IAS Officer: ₹10–15 LPA in India (with perks)")
+
+        if "IPS Officer" in suggested_jobs:
+            st.write("🚔 IPS Officer: ₹9–14 LPA in India (with perks)")
+
+        if "Scientist (ISRO/DRDO)" in suggested_jobs:
+            st.write("🔬 Scientist: ₹8–15 LPA in India, $100K–150K in US (Research)")
+
